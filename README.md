@@ -1,9 +1,9 @@
 ### Bienvenidos a mi Perfil De Ariel Moposita  👋
 
 
-**Cristoferfloor/Cristoferfloor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+Ariel Moposita, nació en Quito-Ecuador el 2 de septiembre del 2000. Realizo sus estudios segundarios en colegio Nacional “13 de abril” Actualmente está cruzando la carrera de Desarrollo de software en La universidad Escuela Politécnica Nacional Áreas de interés: desarrollo web, diseño de interfaces ( ariel.moposita@epn.edu.ec ). 
 
 - 🔭 I’m currently working on ...
 - 🌱 I am currently learning web design
